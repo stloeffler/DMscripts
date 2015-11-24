@@ -5,7 +5,7 @@
 	properties of ROIs. To use, run the script, select a ROI in an image, and
 	press "Assign ROI" in the dialog.
 
-	Copyright (c) 2015  Stefan LÃ¶ffler
+	Copyright (c) 2015  Stefan Löffler
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by

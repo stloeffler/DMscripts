@@ -5,7 +5,7 @@
 	currently does not perform local peak fitting). Returns a mask image that
 	is 1 for pixels that are maximal in their surrounding and 0 otherwise.
 
-	Copyright (c) 2015  Stefan LÃ¶ffler
+	Copyright (c) 2015  Stefan Löffler
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by

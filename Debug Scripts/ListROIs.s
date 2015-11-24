@@ -4,7 +4,7 @@
 	This script lists all regions of interest (ROIs) in the front-most image,
 	together with their properties, and prints them into the result window.
 
-	Copyright (c) 2015  Stefan LÃ¶ffler
+	Copyright (c) 2015  Stefan Löffler
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by

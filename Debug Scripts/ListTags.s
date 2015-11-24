@@ -4,7 +4,7 @@
 	This script lists either all global tags (also accessible from the File menu)
 	or all tags of the front-most image (also accessible from the context menu).
 
-	Copyright (c) 2015  Stefan LÃ¶ffler
+	Copyright (c) 2015  Stefan Löffler
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by

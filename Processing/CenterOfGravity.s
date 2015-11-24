@@ -7,7 +7,7 @@
 	you have a rectangular ROI, the COG will be calculated only within the ROI
 	(but still will be printed in image coordinates).
 
-	Copyright (c) 2015  Stefan LÃ¶ffler
+	Copyright (c) 2015  Stefan Löffler
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by

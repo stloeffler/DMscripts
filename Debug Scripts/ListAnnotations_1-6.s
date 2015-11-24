@@ -5,7 +5,7 @@
 	in the UI) of the front image document and prints them into the result
 	window. Also printed are the properties of the respective components.
 
-	Copyright (c) 2015  Stefan LÃ¶ffler
+	Copyright (c) 2015  Stefan Löffler
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by

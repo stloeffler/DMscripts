@@ -4,7 +4,7 @@
 	Applies a Gaussian filter with specified x and y radius to the front-most
 	image. Filtering is performed in Fourier space.
 
-	Copyright (c) 2015  Stefan LÃ¶ffler
+	Copyright (c) 2015  Stefan Löffler
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
